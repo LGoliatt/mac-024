@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Apresenta\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Plano de Ensino}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Introdu\IeC {\c c}\IeC {\~a}o}{6}{0}{1}
+\beamer@sectionintoc {2}{Modelando a Mudan\IeC {\c c}a}{23}{0}{2}
+\beamer@sectionintoc {3}{O Processo de Modelagem, Proporcionalidade e Similaridade Geom\IeC {\'e}trica}{50}{0}{3}
+\beamer@sectionintoc {4}{Ajustes de Modelos}{51}{0}{4}
+\beamer@sectionintoc {5}{Simula\IeC {\c c}\IeC {\~a}o Discreta e Probabil\IeC {\'\i }stica}{52}{0}{5}
